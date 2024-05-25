@@ -51,11 +51,47 @@ function displayResults(results) {
                 <p><strong>Title:</strong> ${item.title} <br> 
                 <strong>Artist:</strong> ${item.artist} <br> 
                 <strong>Album:</strong> ${item.album}</p>
+                <button class="info-btn">More Info</button>
             `;
             resultsDiv.appendChild(itemDiv);
         });
+        document.querySelectorAll('.info-btn').forEach((button, index) => {
+            button.addEventListener('click', () => displayModal(results[index]));
+        });
     }
 }
+
+function displayModal(item) {
+    const modal = document.getElementById('myModal');
+    const modalInfo = document.getElementById('modal-info');
+    const spotifyLink = document.getElementById('spotify-link');
+
+    modal.style.display = "block";
+    modalInfo.innerHTML = `
+        <p><strong>Title:</strong> ${item.title}</p>
+        <p><strong>Artist:</strong> ${item.artist}</p>
+        <p><strong>Album:</strong> ${item.album}</p>
+    `;
+    spotifyLink.href = item.spotify_link; 
+
+    const closeBtn = document.getElementsByClassName("close")[0];
+    closeBtn.onclick = function() {
+        modal.style.display = "none";
+    }
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+}
+
+
+document.addEventListener('keydown', function(event) {
+    const modal = document.getElementById('myModal');
+    if (event.key === "Escape" && modal.style.display === "block") {
+        modal.style.display = "none";
+    }
+});
 
 document.addEventListener('DOMContentLoaded', loadData);
 

@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Liked songs</h1>
+        <h1 class="card_animation">Liked songs</h1>
         <div class="flex">
             <form class="flex" id="submit">
                 <input type="text" id="search" placeholder="  Enter the name of the song, artist or album">
@@ -24,6 +24,14 @@
             <button type="button" class="btn-artist" data-artist="GSPD">GSPD</button>
         </div>
         <div id="results"></div>
+    </div>
+
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modal-info"></div>
+            <a id="spotify-link" href="#" target="_blank"><img class="btn-spotify" src="https://www.latinousa.org/wp-content/uploads/2022/07/listen-on-spotify-button.png" alt="spotify"></a>
+        </div>
     </div>
 
     <script src="script.js"></script>

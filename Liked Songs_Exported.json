@@ -5,294 +5,350 @@
     "title": "друг(ой)",
     "artist": "MAYOT",
     "album": "ОБА",
-    "image":"https://the-flow.ru/uploads/images/catalog/element/64c2b2e838a40.jpg"
+    "image":"https://the-flow.ru/uploads/images/catalog/element/64c2b2e838a40.jpg",
+    "spotify_link":"https://open.spotify.com/track/5RrVQOu2LN9uX8HJGH5Yxo?si=930bc0c7c3aa462e"
   },
   {
     "platform": "Spotify",
     "id": "1ulTvObfE5Adwe49wI24qM",
     "title": "4х4",
     "artist": "Boulevard Depo",
-    "album": "СЕРТОЛОВСКИЙ ТОКСИК"
+    "album": "СЕРТОЛОВСКИЙ ТОКСИК",
+    "image":"https://images.genius.com/a27dc19c3e4ecf057ca59982c8468168.1000x1000x1.jpg",
+    "spotify_link":"https://open.spotify.com/track/1ulTvObfE5Adwe49wI24qM?si=c7ce02a15fbe47f6"
   },
   {
     "platform": "Spotify",
     "id": "6UeYUsnV81SKokLaNBNSei",
     "title": "4x4",
     "artist": "Big Baby Tape",
-    "album": "VARSKVA"
+    "album": "VARSKVA",
+    "image":"https://i1.sndcdn.com/artworks-5vBGPozpuyuiBsGQ-by3mIQ-t500x500.jpg",
+    "spotify_link":"https://open.spotify.com/track/6UeYUsnV81SKokLaNBNSei?si=888a6d2dff134470"
   },
   {
     "platform": "Spotify",
     "id": "30OrrYT03KReAvujeC1FgJ",
     "title": "После фильма",
     "artist": "Electroforez",
-    "album": "EP #3"
+    "album": "EP #3",
+    "image":"https://upload.wikimedia.org/wikipedia/ru/4/45/505_%28%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%29.jpg",
+    "spotify_link":"https://open.spotify.com/track/30OrrYT03KReAvujeC1FgJ?si=662899b7887f419d"
   },
   {
     "platform": "Spotify",
     "id": "5n0HWIOT3UoScVThrRkH4k",
     "title": "далеко (большой Бушизм) [prod. by wex & heysubr]",
     "artist": "BUSHIDO ZHO",
-    "album": "далеко (большой Бушизм) [prod. by wex & heysubr]"
+    "album": "далеко (большой Бушизм) [prod. by wex & heysubr]",
+    "image":"https://lastfm.freetls.fastly.net/i/u/ar0/91cdae6cf6bad021c7ab23e2acae9905.jpg",
+    "spotify_link":"https://open.spotify.com/track/5n0HWIOT3UoScVThrRkH4k?si=791b83820a2b4650"
   },
   {
     "platform": "Spotify",
     "id": "2YRKSZkKZW9uBC89NcQAUo",
     "title": "Dança Dança Brasilia",
     "artist": "S4nri0",
-    "album": "Dança Dança Brasilia"
+    "album": "Dança Dança Brasilia",
+    "image":"https://i1.sndcdn.com/artworks-GLhEQPDU8YnLpust-XVUi5g-t500x500.jpg",
+    "spotify_link":"https://open.spotify.com/track/2YRKSZkKZW9uBC89NcQAUo?si=b6d8326d317946a5"
   },
   {
     "platform": "Spotify",
     "id": "7IzxSIEg6wAW6DkLjxIROE",
     "title": "Molly My Bean",
     "artist": "MA Beats",
-    "album": "Molly My Bean"
+    "album": "Molly My Bean",
+    "image":"https://i.scdn.co/image/ab67616d00001e027306d0f39007d5563622e1be",
+    "spotify_link":"https://open.spotify.com/track/7IzxSIEg6wAW6DkLjxIROE?si=59c98cd8c1614fc1"
   },
   {
     "platform": "Spotify",
     "id": "29K9XCDx9IDpyGpKmoM5VJ",
     "title": "ERROR",
     "artist": "ROMANTICA",
-    "album": "ERROR"
+    "album": "ERROR",
+    "image":"https://lastfm.freetls.fastly.net/i/u/ar0/f93ade45284298f7a260ad60a342ed77.jpg",
+    "spotify_link":"https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ?si=504ca5b0c92746d4"
   },
   {
     "platform": "Spotify",
     "id": "4b3q9rhfPyPviwCAN73JEB",
     "title": "Стань моим продюсером",
     "artist": "DEAD BLONDE",
-    "album": "ПЕРЕСТРОЙКА"
+    "album": "ПЕРЕСТРОЙКА",
+    "image":"https://images.genius.com/6fb5d6ee98b6fad4d50a75fe0cd88066.1000x1000x1.jpg",
+    "spotify_link":"https://open.spotify.com/track/4b3q9rhfPyPviwCAN73JEB?si=f7187140a7374ce6"
   },
   {
     "platform": "Spotify",
     "id": "5ut9pVBztnMknfU71wdOK5",
     "title": "Откровения",
     "artist": "OG Buda & FEDUK",
-    "album": "ОПГ СИТИ"
+    "album": "ОПГ СИТИ",
+    "image":"https://the-flow.ru/uploads/images/catalog/element/5de03395535b5.jpg",
+    "spotify_link":"https://open.spotify.com/track/5ut9pVBztnMknfU71wdOK5?si=084e5f284f124842"
   },
   {
     "platform": "Spotify",
     "id": "4BWO8SB3Ap3RYAUH1cRXVM",
     "title": "Дождь",
     "artist": "SODA LUV",
-    "album": "Превосходный синий"
+    "album": "Превосходный синий",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7fRjv4XzRgeNNIi-f8zZAZTY1sorq_6ylgD6ooS5KQ&s",
+    "spotify_link":"https://open.spotify.com/track/4BWO8SB3Ap3RYAUH1cRXVM?si=9db1efa7373f4159"
   },
   {
     "platform": "Spotify",
     "id": "0Qfnn5ORDHNESrhQYOxs8l",
     "title": "ЗАХОТЕЛ",
     "artist": "НАВЕРНОЕ ПОЭТ & ЯКОРЪ & EVEN CUTE",
-    "album": "ЗАХОТЕЛ"
+    "album": "ЗАХОТЕЛ",
+    "image":"https://lh3.googleusercontent.com/bA72Jwnrx1fpb7As4dGYN7URUcaxk5ikYhjw1mOivba-SCkY42NfE-4XCXswjRpzX-2TdZDmfNZqIIrK=w544-h544-l90-rj",
+    "spotify_link":"https://open.spotify.com/track/0Qfnn5ORDHNESrhQYOxs8l?si=22e3946d6bde48c3"
   },
   {
     "platform": "Spotify",
     "id": "5pOcGe5rZadfXpSigmsNas",
     "title": "Замигает свет",
     "artist": "KENTUKKI",
-    "album": "Замигает свет"
+    "album": "Замигает свет",
+    "image":"https://avatars.yandex.net/get-music-content/4399834/edf7e815.a.18234123-1/m1000x1000",
+    "spotify_link":"https://open.spotify.com/track/5pOcGe5rZadfXpSigmsNas?si=80950a9ba8df48d0"
   },
   {
     "platform": "Spotify",
     "id": "0avFSJ9URBdqNM2M2ekzFa",
     "title": "SAMAYA PERVAYA",
     "artist": "LOVV66",
-    "album": "SAMAYA PERVAYA"
+    "album": "SAMAYA PERVAYA",
+    "image":"https://i.ytimg.com/vi/t55tV-1EFvc/maxresdefault.jpg"
   },
   {
     "platform": "Spotify",
     "id": "0Jsz1tS7kTAYJITQcgnCPA",
     "title": "Я диско шар",
     "artist": "Кишлак",
-    "album": "Сборник хуйни и картинки"
+    "album": "Сборник хуйни и картинки",
+    "image":"https://images.genius.com/5d18fe1dbac7b3b7e83a9a7aea7ab4a5.1000x1000x1.png"
   },
   {
     "platform": "Spotify",
     "id": "3a6V6JUyWnMQYDu6fvsFvp",
     "title": "Фон для секса",
     "artist": "Pika",
-    "album": "Alfv"
+    "album": "Alfv",
+    "image":"https://the-flow.ru/uploads/images/catalog/element/5715503da5fd4.png"
   },
   {
     "platform": "Spotify",
     "id": "0lEQFpuJSpREmNlc2h3PA2",
     "title": "Какая?",
     "artist": "whyspurky & whylovly",
-    "album": "Какая?"
+    "album": "Какая?",
+    "image":"https://i.ytimg.com/vi/YiHaIm1U-II/maxresdefault.jpg"
   },
   {
     "platform": "Spotify",
     "id": "2o0xELg1oLIN4WYRQ2Sln4",
     "title": "Да, я такой",
     "artist": "BOOKER & ШАРЫ",
-    "album": "ВЫБЕРИ ЖИЗНЬ"
+    "album": "ВЫБЕРИ ЖИЗНЬ",
+    "image":"https://cdns-images.dzcdn.net/images/cover/a21aab308c7c0fc4ffe42a263db1b2ab/500x500.jpg"
   },
   {
     "platform": "Spotify",
     "id": "5XwYvDfbYBCFXh2SHDrJTC",
     "title": "ДРАГ",
     "artist": "BOOKER & СМН",
-    "album": "ВЫБЕРИ ЖИЗНЬ"
+    "album": "ВЫБЕРИ ЖИЗНЬ",
+    "image":"https://cdns-images.dzcdn.net/images/cover/a21aab308c7c0fc4ffe42a263db1b2ab/500x500.jpg"
   },
   {
     "platform": "Spotify",
     "id": "47uzonfXJWf6ELWs15khGP",
     "title": "Детка Киллер",
     "artist": "DEAD BLONDE",
-    "album": "ПЕРЕСТРОЙКА"
+    "album": "ПЕРЕСТРОЙКА",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGw-Kq2Eb-Q--gTacTsC2CCdJjj4Tk_oppwc4WqS53HQ&s",
+    "spotify_link":"https://images.genius.com/6fb5d6ee98b6fad4d50a75fe0cd88066.1000x1000x1.jpg"
   },
   {
     "platform": "Spotify",
     "id": "0ufojdPJOARYixksgrzAkn",
     "title": "Ты всё мне сказала?",
     "artist": "GSPD",
-    "album": "Для первого и последнего раза"
+    "album": "Для первого и последнего раза",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/96/50/fe/9650fe66-a450-0d11-5754-4cd0dd875d0e/cover.jpg/1200x1200bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "74rl89i6GlqWwOFVlBtEh9",
     "title": "Младшая сестра",
     "artist": "Дора",
-    "album": "Младшая сестра"
+    "album": "Младшая сестра",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/53/08/eb/5308ebcd-a23a-07b8-aa54-880409655702/cover.jpg/600x600bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "6EX9l4lJZknixCpQqTKGAF",
     "title": "Get Stupid",
     "artist": "Cloonee",
-    "album": "Get Stupid"
+    "album": "Get Stupid",
+    "image":"https://cdns-images.dzcdn.net/images/cover/d19114feaf00bce58161b8391512b4dd/500x500.jpg"
   },
   {
     "platform": "Spotify",
     "id": "17iGYL3ZbYNpUhJpppO7eN",
     "title": "Как тебе не стыдно",
     "artist": "GSPD",
-    "album": "Красивая Россия"
+    "album": "Красивая Россия",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9c/6d/bc/9c6dbce7-41bc-1f22-5bc2-bd47326d3ba7/cover.jpg/1200x1200bb.jpg"
   },
   {
     "platform": "Spotify",
     "id": "26uJoIBoHfUKsldxUpPLPy",
     "title": "Зеркало",
     "artist": "IC3PEAK & Boulevard Depo",
-    "album": "Сладкая жизнь"
+    "album": "Сладкая жизнь",
+    "image":"https://upload.wikimedia.org/wikipedia/ru/d/d8/IC3PEAK_%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C.jpg"
   },
   {
     "platform": "Spotify",
     "id": "3qkeYh3Con4SDWIFw3DiFW",
     "title": "NITE",
     "artist": "ELVEN DIOR",
-    "album": "NITE"
+    "album": "NITE",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/fc/cc/48fccc58-5e57-d74a-a7f5-63a4b4e00a15/5063466027191.jpg/800x800cc.jpg"
   },
   {
     "platform": "Spotify",
     "id": "5qaHd2XUX2heyaGpi6Gukm",
     "title": "РАССВЕТ",
     "artist": "Джизус",
-    "album": "НАЧАЛО НОВОЙ ЭРЫ"
+    "album": "НАЧАЛО НОВОЙ ЭРЫ",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/83/27/b1/8327b13b-1689-9b70-cbdf-93b3d599c877/190295359232.jpg/600x600bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "7thrDFFPnBTmqWmPaTr2Z7",
     "title": "WORLDWIDE",
     "artist": "X-WAYNE & SVFXNXV & CURSEDEVIL & WESTLIBERTY'S & 74blade & LEYNCLOUD & BXGR & ARGXNTUM & SH3TLVIZ & KALXSH & ROXSH LUXIRY & cxsredead & DJ CHANSEY & THRILLMANE & LXSTPLVYER & NESMIYANOV",
-    "album": "WORLDWIDE"
+    "album": "WORLDWIDE",
+    "image":"https://i.scdn.co/image/ab67616d0000b273c7199dffc1bea14d09695729"
   },
   {
     "platform": "Spotify",
     "id": "7vD6fJg66dEzbYXVvEyQCh",
     "title": "TryToFriend",
     "artist": "FORTUNA 812",
-    "album": "TryToFriend"
+    "album": "TryToFriend",
+    "image":"https://images.genius.com/471542cdfa86582bf6d6c1648dc7d54f.1000x1000x1.jpg"
   },
   {
     "platform": "Spotify",
     "id": "4Q6eUXtjd9sbzP2orZY6x0",
     "title": "кончил",
     "artist": "ENINA",
-    "album": "кончил"
+    "album": "кончил",
+    "image":"https://avatars.yandex.net/get-music-content/10874616/8c2db1e3.a.30509089-1/200x200"
   },
   {
     "platform": "Spotify",
     "id": "03ePFYWngvw1TCp0ukN8bL",
     "title": "Звезда упала",
     "artist": "Pepel Nahudi",
-    "album": "KINGDOM MADE"
+    "album": "KINGDOM MADE",
+    "image":"https://images.genius.com/70abd16c2c90018c428c09147328a650.1000x1000x1.png"
   },
   {
     "platform": "Spotify",
     "id": "0mEoX8LDlk1UR2Uem8NfFu",
     "title": "КТО ТЕБЕ ЭТО СКАЗАЛ",
     "artist": "Pepel Nahudi",
-    "album": "PSYCHEDELIC LOVE"
+    "album": "PSYCHEDELIC LOVE",
+    "image":"https://the-flow.ru/uploads/images/catalog/element/6613d0b410cc8.jpg"
   },
   {
     "platform": "Spotify",
     "id": "6HRlw9G52s6Vg70rkM4Ztr",
     "title": "только для тебя",
     "artist": "ПОЛМАТЕРИ",
-    "album": "НАЙДИТЕ ИВАНА МАРГОЛДИНА"
+    "album": "НАЙДИТЕ ИВАНА МАРГОЛДИНА",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0c/b7/87/0cb7871a-cdce-b2c6-9d92-b32f0495c96b/cover.jpg/600x600bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "5BFXs4wMG0ldXN2mMbRVQQ",
     "title": "вредина",
     "artist": "алёна швец.",
-    "album": "ВРЕДИНА"
+    "album": "ВРЕДИНА",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/b5/ac/22b5ac1c-9aff-c013-7686-df839faec146/cover.jpg/1200x1200bb.jpg"
   },
   {
     "platform": "Spotify",
     "id": "1cIpnogVf8zNyGnvGoCmzK",
     "title": "машина для убийств",
     "artist": "алёна швец.",
-    "album": "КОРОЛЕВА ОТСТОЯ"
+    "album": "КОРОЛЕВА ОТСТОЯ",
+    "image":"https://upload.wikimedia.org/wikipedia/ru/1/17/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_%D0%BE%D1%82%D1%81%D1%82%D0%BE%D1%8F_%D0%90%D0%BB%D0%B5%D0%BD%D0%B0_%D1%88%D0%B2%D0%B5%D1%86.jpeg"
   },
   {
     "platform": "Spotify",
     "id": "01A0Edwf6n87thkYUOTwLe",
     "title": "МАКРОН",
     "artist": "ТЯЖЁЛАЯ АТЛЕТИКА & RASKOL",
-    "album": "ВОССТАНИЕ МАШИН"
+    "album": "ВОССТАНИЕ МАШИН",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/01/ca/54/01ca54a5-93f8-7921-b706-0f5851aa8e14/cover.jpg/1200x1200bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "1IIMpmIvO8tBJrSb1oL4Ox",
     "title": "Папиросы",
     "artist": "Zanuda",
-    "album": "Папиросы"
+    "album": "Папиросы",
+    "image":"https://upload.wikimedia.org/wikipedia/ru/9/94/Zanuda_Papirosi.jpg"
   },
   {
     "platform": "Spotify",
     "id": "5i0RCUxDfqf4yELxT71p08",
     "title": "Без неё никуда",
     "artist": "Жека Басотский",
-    "album": "Железобетон +"
+    "album": "Железобетон +",
+    "image":"https://cdns-images.dzcdn.net/images/cover/2bf7a81b6b7bab6bb5025ad3c2eefedb/1900x1900-000000-80-0-0.jpg"
   },
   {
     "platform": "Spotify",
     "id": "2tSOz2c3qqs8jOdlyMvHww",
     "title": "мальчик",
     "artist": "кис-кис",
-    "album": "Магазин игрушек для взрослых"
+    "album": "Магазин игрушек для взрослых",
+    "image":"https://upload.wikimedia.org/wikipedia/ru/thumb/a/a4/%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD_%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%B5%D0%BA_%D0%B4%D0%BB%D1%8F_%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D1%85_%D0%BA%D0%B8%D1%81-%D0%BA%D0%B8%D1%81_%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpeg/274px-%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD_%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%B5%D0%BA_%D0%B4%D0%BB%D1%8F_%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D1%85_%D0%BA%D0%B8%D1%81-%D0%BA%D0%B8%D1%81_%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpeg"
   },
   {
     "platform": "Spotify",
     "id": "22qfCLKHlKCguNaS6ai5fU",
     "title": "Freya",
     "artist": "LIL MORTY",
-    "album": "Freya"
+    "album": "Freya",
+    "image":"https://cdns-images.dzcdn.net/images/cover/117565d1af77c528c3f580e2de59526d/500x500.jpg"
   },
   {
     "platform": "Spotify",
     "id": "0L3nGkIngSTWMKp1Yz4pSU",
     "title": "Тамагочи",
     "artist": "MAYBE BABY & алёна швец.",
-    "album": "Тамагочи"
+    "album": "Тамагочи",
+    "image":"https://cdns-images.dzcdn.net/images/cover/88bb8dd9a98b6b26337dc2034c6fac68/500x500.jpg"
   },
   {
     "platform": "Spotify",
     "id": "0iWLbfz7ls2I2rzG3WlLuz",
     "title": "БИЧЕС",
     "artist": "uniqe & nkeeei & ARTEM SHILOVETS & Wipo",
-    "album": "БИЧЕС"
+    "album": "БИЧЕС",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/34/27/cb34274e-6989-7b59-f3d9-fc840951e330/cover.jpg/1200x1200bf-60.jpg",
+    "spotify_link":"https://open.spotify.com/track/0iWLbfz7ls2I2rzG3WlLuz?si=4ed9eb20bb60478b"
   },
   {
     "platform": "Spotify",
@@ -341,7 +397,9 @@
     "id": "7si3cC98BDRnwBLeomoMLO",
     "title": "2k",
     "artist": "DK",
-    "album": "SYNONIM"
+    "album": "SYNONIM",
+    "image":"https://images.genius.com/d79bbe93681d101bde1951ac2d129adb.640x640x1.jpg",
+    "spotify_link":"https://open.spotify.com/track/7si3cC98BDRnwBLeomoMLO?si=fd5a018e5d634943"
   },
   {
     "platform": "Spotify",
@@ -383,7 +441,9 @@
     "id": "1OqtLaggqfUfQtVSjWNlsa",
     "title": "Питер – город криминала",
     "artist": "DEAD BLONDE",
-    "album": "ПЕРЕСТРОЙКА"
+    "album": "ПЕРЕСТРОЙКА",
+    "image":"https://images.genius.com/6fb5d6ee98b6fad4d50a75fe0cd88066.1000x1000x1.jpg",
+    "spotify_link":"https://open.spotify.com/track/1OqtLaggqfUfQtVSjWNlsa?si=bb115991aa8f4ff2"
   },
   {
     "platform": "Spotify",
@@ -397,7 +457,9 @@
     "id": "2LnfLm2jmNUM0dfdFnSuRX",
     "title": "Между панельных домов",
     "artist": "DEAD BLONDE",
-    "album": "Княжна из хрущёвки"
+    "album": "Княжна из хрущёвки",
+    "image":"https://images.genius.com/0440525e571b33aec0e892c3b2a4be25.1000x1000x1.jpg",
+    "spotify_link":"https://open.spotify.com/track/2LnfLm2jmNUM0dfdFnSuRX?si=40fa7f46b9f64118"
   },
   {
     "platform": "Spotify",
@@ -642,7 +704,9 @@
     "id": "4NznBVd7lE9tU2rAPgrt40",
     "title": "Никому не говори!",
     "artist": "GSPD",
-    "album": "MYЗЛО"
+    "album": "MYЗЛО",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/24/d5/c7/24d5c788-9ebf-fb90-46f1-70db9e184eda/cover.jpg/1200x1200bf-60.jpg",
+    "spotify_link":"https://open.spotify.com/track/4NznBVd7lE9tU2rAPgrt40?si=88c285b08acd442d"
   },
   {
     "platform": "Spotify",
@@ -754,7 +818,9 @@
     "id": "1kbLv1h7n1MalynD7arKYY",
     "title": "1984",
     "artist": "GSPD",
-    "album": "Для первого и последнего раза"
+    "album": "Для первого и последнего раза",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/96/50/fe/9650fe66-a450-0d11-5754-4cd0dd875d0e/cover.jpg/1200x1200bf-60.jpg",
+    "spotify_link":"https://open.spotify.com/track/1kbLv1h7n1MalynD7arKYY?si=1d976788ff6b4827"
   },
   {
     "platform": "Spotify",
@@ -859,7 +925,9 @@
     "id": "6aMEotXeq1P71YMVnJb7kd",
     "title": "Они Следят",
     "artist": "DK",
-    "album": "Ненаход"
+    "album": "Ненаход",
+    "image":"https://images.genius.com/f2ef79ef138a60372fc47b97285c6c69.1000x1000x1.png",
+    "spotify_link":"https://open.spotify.com/track/6aMEotXeq1P71YMVnJb7kd?si=d3eb52adbf12419c"
   },
   {
     "platform": "Spotify",
@@ -978,7 +1046,9 @@
     "id": "6HkVP6dOmiaWA6ciFW6BJL",
     "title": "Мертвая Карьера",
     "artist": "DK",
-    "album": "Ненаход"
+    "album": "Ненаход",
+    "image":"https://images.genius.com/f2ef79ef138a60372fc47b97285c6c69.1000x1000x1.png",
+    "spotify_link":"https://open.spotify.com/track/6HkVP6dOmiaWA6ciFW6BJL?si=a9d76e905d494a4c"
   },
   {
     "platform": "Spotify",
@@ -1286,7 +1356,9 @@
     "id": "70U2My8K2RiyxPivmqbv4P",
     "title": "Kromka",
     "artist": "Boulevard Depo",
-    "album": "Sweet Dreams"
+    "album": "Sweet Dreams",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/be/52/e3/be52e3f4-0667-7700-09af-c4c0dc89c94f/190296893629.jpg/600x600bf-60.jpg",
+    "spotify_link":"https://open.spotify.com/track/70U2My8K2RiyxPivmqbv4P?si=65b7a0f00610447c"
   },
   {
     "platform": "Spotify",
@@ -1335,7 +1407,9 @@
     "id": "4xGvasTNSFu7K7Zf9UA57T",
     "title": "PRAXX",
     "artist": "DK",
-    "album": "PRAXX"
+    "album": "PRAXX",
+    "image":"https://images.genius.com/232fe81fc166519ef3e5f877e4e313d9.1000x1000x1.jpg",
+    "spotify_link":"https://open.spotify.com/track/4xGvasTNSFu7K7Zf9UA57T?si=ff5a187d74d94bab"
   },
   {
     "platform": "Spotify",
@@ -1538,7 +1612,9 @@
     "id": "1I9mX1mnmVpH5s1iU92sLF",
     "title": "Восьмиклассница",
     "artist": "GSPD",
-    "album": "Девочки на дискотеке"
+    "album": "Девочки на дискотеке",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/45/e7/61/45e7612d-ed7a-237e-efc7-a1e6f4a614ce/cover.jpg/1200x1200bf-60.jpg",
+    "spotify_link":"https://open.spotify.com/track/1I9mX1mnmVpH5s1iU92sLF?si=85e0dc5c87f24ca9"
   },
   {
     "platform": "Spotify",
@@ -1958,7 +2034,9 @@
     "id": "2Yq8d6QPyp7hVb7fXvKsbU",
     "title": "ART HOES - Prod. DavidRema",
     "artist": "Boulevard Depo",
-    "album": "OLD BLOOD"
+    "album": "OLD BLOOD",
+    "image":"https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/OLD_BLOOD.jpg/800px-OLD_BLOOD.jpg",
+    "spotify_link":"https://open.spotify.com/track/2Yq8d6QPyp7hVb7fXvKsbU?si=48b1da2101d948ec"
   },
   {
     "platform": "Spotify",
@@ -2028,7 +2106,9 @@
     "id": "6mC2PY4sm4M0YFL9dsBMGc",
     "title": "Снег растаял на плечах",
     "artist": "DEAD BLONDE",
-    "album": "Снег растаял на плечах"
+    "album": "Снег растаял на плечах",
+    "image":"https://i.ytimg.com/vi/1h6SbbbWdEg/mqdefault.jpg",
+    "spotify_link":"https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc?si=59f04ae94b3b4502"
   },
   {
     "platform": "Spotify",
@@ -2140,49 +2220,56 @@
     "id": "33Gp4MNKjBctVbCu2PK9O3",
     "title": "Верните мой 2017",
     "artist": "GSPD",
-    "album": "Верните мой 2017"
+    "album": "Верните мой 2017",
+    "image":"https://i1.sndcdn.com/artworks-cChBliXSqTns-0-t500x500.jpg"
   },
   {
     "platform": "Spotify",
     "id": "7LSkq1ikwLWHxhGQjY18qG",
     "title": "Интердевочка",
     "artist": "GSPD",
-    "album": "MYЗЛО"
+    "album": "MYЗЛО",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/24/d5/c7/24d5c788-9ebf-fb90-46f1-70db9e184eda/cover.jpg/1200x1200bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "4ueLEzq2XMLQJHD3sitbNA",
     "title": "Первое свидание",
     "artist": "GSPD",
-    "album": "Поколение греха"
+    "album": "Поколение греха",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/47/53/b4/4753b4d3-a059-7702-9a5d-58af73fd68d6/cover.jpg/600x600bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "4vYqEgnE1O6GvjYQE880pA",
     "title": "Евродэнс",
     "artist": "GSPD",
-    "album": "Rave Epidemic"
+    "album": "Rave Epidemic",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f8/a9/78/f8a978e9-322d-4ebd-153b-aac8332ef924/cover.jpg/1200x1200bb.jpg"
   },
   {
     "platform": "Spotify",
     "id": "1sIEFKMIynOqDV91q1zJFV",
     "title": "Героиновый шик",
     "artist": "GSPD",
-    "album": "Rape After Rave"
+    "album": "Rape After Rave",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/b4/f8/8fb4f811-701b-72dc-b255-d27af70d9864/cover.jpg/600x600bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "3VuGGttgTX8oDGmcD8Ea8P",
     "title": "ЭЛЕКТРОКЛУБ",
     "artist": "GSPD",
-    "album": "Ленинградский Электроклуб"
+    "album": "Ленинградский Электроклуб",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/e2/a6/0ee2a67f-7b30-32e1-3b36-c4b4d6ade857/cover.jpg/1200x1200bf-60.jpg"
   },
   {
     "platform": "Spotify",
     "id": "1UT1QYUTKHtFx8cQYoDIHU",
     "title": "Это неправильно - Rework 2021",
     "artist": "GSPD",
-    "album": "Старые песни о главном"
+    "album": "Старые песни о главном",
+    "image":"https://avatars.yandex.net/get-music-content/5696151/fb523927.a.21184011-1/m1000x1000"
   },
   {
     "platform": "Spotify",
@@ -2308,7 +2395,9 @@
     "id": "2Ya7Tw0cC0kT7CeC0cj9Oq",
     "title": "Буду",
     "artist": "DK",
-    "album": "SYNONIM"
+    "album": "SYNONIM",
+    "image":"https://images.genius.com/d79bbe93681d101bde1951ac2d129adb.640x640x1.jpg",
+    "spotify_link":"https://open.spotify.com/track/2Ya7Tw0cC0kT7CeC0cj9Oq?si=31255b1ce3cf46a2"
   },
   {
     "platform": "Spotify",
@@ -2567,7 +2656,8 @@
     "id": "0VdO4uOtlBuzrLu3xDDof0",
     "title": "Адидас, мескалин",
     "artist": "GSPD",
-    "album": "Девочки на дискотеке"
+    "album": "Девочки на дискотеке",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/45/e7/61/45e7612d-ed7a-237e-efc7-a1e6f4a614ce/cover.jpg/1200x1200bf-60.jpg"
   },
   {
     "platform": "Spotify",
