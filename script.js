@@ -28,6 +28,16 @@ async function random(event) {
     displayResults(randomItems);
 }
 
+function displayAll() {
+    displayResults(data);
+}
+
+function filterByArtist(event) {
+    const artist = event.target.getAttribute('data-artist');
+    const results = data.filter(item => item.artist.toLowerCase() === artist.toLowerCase());
+    displayResults(results);
+}
+
 function displayResults(results) {
     const resultsDiv = document.getElementById('results');
     resultsDiv.innerHTML = '';
@@ -36,7 +46,12 @@ function displayResults(results) {
     } else {
         results.forEach(item => {
             const itemDiv = document.createElement('div');
-            itemDiv.innerHTML = `<p><strong>Title:</strong> ${item.title} <br> <strong>Artist:</strong> ${item.artist} <br> <strong>Album:</strong> ${item.album}</p>`;
+            itemDiv.innerHTML = `
+                <img src="${item.image}" alt="${item.title}" style="width:400px;height:400px; margin-top: 20px;">
+                <p><strong>Title:</strong> ${item.title} <br> 
+                <strong>Artist:</strong> ${item.artist} <br> 
+                <strong>Album:</strong> ${item.album}</p>
+            `;
             resultsDiv.appendChild(itemDiv);
         });
     }
@@ -46,3 +61,5 @@ document.addEventListener('DOMContentLoaded', loadData);
 
 document.querySelector('.btn-search').addEventListener('click', search);
 document.querySelector('.btn-random').addEventListener('click', random);
+document.querySelector('.btn-all').addEventListener('click', displayAll);
+document.querySelectorAll('.btn-artist').forEach(button => button.addEventListener('click', filterByArtist));

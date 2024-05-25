@@ -40,3 +40,15 @@ body {
 .btn-random-img {
     width: 25px;
 }
+
+.btn-all,
+.btn-artist {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: floralwhite;
+    border: 1px solid white;
+    width: 97px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 5px;
+}
+
