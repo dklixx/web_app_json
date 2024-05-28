@@ -46,8 +46,9 @@ function displayResults(results) {
     } else {
         results.forEach(item => {
             const itemDiv = document.createElement('div');
+            itemDiv.classList.add('result-item'); 
             itemDiv.innerHTML = `
-                <img src="${item.image}" alt="${item.title}" style="width:400px;height:400px; margin-top: 20px;">
+                <img src="${item.image}" alt="${item.title}">
                 <p><strong>Title:</strong> ${item.title} <br> 
                 <strong>Artist:</strong> ${item.artist} <br> 
                 <strong>Album:</strong> ${item.album}</p>
@@ -84,7 +85,6 @@ function displayModal(item) {
         }
     }
 }
-
 
 document.addEventListener('keydown', function(event) {
     const modal = document.getElementById('myModal');
